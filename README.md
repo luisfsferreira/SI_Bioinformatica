@@ -13,13 +13,13 @@ A abordagem proposta permite estimar o grau de ligação entre compostos e prote
 ## Conteúdo do Repositório
 
 - `main.ipynb` — Notebook principal com todas as etapas do trabalho, da exploração de dados ao treino de modelos.
-- 
+  
 - `KIBA_binarized.csv` — Versão binarizada do dataset KIBA com interações droga-proteína.
-- 
+  
 - `drugs_descriptors_smiles.csv` — Descritores moleculares extraídos a partir de SMILES.
-- 
+  
 - `drugs_morgan_fingerprints.csv` — Impressões digitais de Morgan das drogas.
-- 
+  
 - `protein_descriptors.csv` — Descritores calculados a partir das sequências de proteínas.
-- 
+  
 - `protein_encoding.csv` — Codificação numérica das sequências de aminoácidos.
